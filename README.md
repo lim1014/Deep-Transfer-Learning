@@ -1,8 +1,11 @@
 # Deep-Transfer-Learning
 
 
-** GBD is Korea Health Insurance Corporation.**
-** KD is actual hospital data.**
+- This repository has not been cleaned up yet.   
+---
+
+**GBD is Korea Health Insurance Corporation.**   
+**KD is actual hospital data.**
 
 ### CODE
 
